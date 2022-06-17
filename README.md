@@ -1,0 +1,2 @@
+# zuri-django-
+Django repo
