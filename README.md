@@ -1,2 +1,2 @@
 # zuri-django-
-Django repo
+Django repo for zuri django models task
